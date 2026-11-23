@@ -1,6 +1,6 @@
 # Welcome to Rishita Pandey's GitHub Profile! 👋
 
-![Profile Banner](https://github.com/Rishita2327/Rishita/raw/main/Colorful%20Shapes%20Header%20Banner.png)
+![Profile Banner](./Colorful%20Shapes%20Header%20Banner.png)
 
 ## Hi there! 👋
 
